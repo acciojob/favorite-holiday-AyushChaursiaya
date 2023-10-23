@@ -1,0 +1,43 @@
+	/*  your css code here. If applicable */
+	/* Base */
+	body {
+	    font-family: Arial, sans-serif;
+	    max-width: 800px;
+	    margin: 0 auto;
+	    padding: 20px;
+	}
+	
+	/* Module: Heading */
+	h1 {
+	    text-align: center;
+	    color: #2a6496;
+	    text-decoration: underline;
+	}
+	
+	/* Module: Overview */
+	#overview {
+	    text-align: justify;
+	}
+	
+	/* Module: Sub-Headings */
+	h2 {
+	    color: #2a6496;
+	    margin-top: 20px;
+	}
+	
+	/* Module: Lists */
+	#attractions,
+	#foods {
+	    padding-left: 20px;
+	}
+	
+	/* Module: Emphasized Text - Strong */
+	strong {
+	    color: #d9534f;
+	}
+	
+	/* Module: Emphasized Text - Emphasis */
+	em {
+	    font-style: italic;
+	}
+		
